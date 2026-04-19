@@ -9,7 +9,6 @@
 <div align="center">
 
 [![Plataformas](https://img.shields.io/badge/Plataformas-Windows%20%7C%20Linux-blue.svg)](#-instalação)
-[![Download](https://img.shields.io/github/downloads/hptsilva/atlas-text-editor/total.svg)](https://github.com/hptsilva/atlas-text-editor/releases)
 
 **Apenas um simples editor de texto.**
 
