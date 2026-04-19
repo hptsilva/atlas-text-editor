@@ -43,7 +43,7 @@ Temos pacotes pré-compilados para as principais distribuições:
 1. Baixe o arquivo **`atlas_1.0.1_amd64.deb`**.
 2. Instale dando um duplo clique (se tiver uma loja de aplicativos) ou pelo terminal:
    ```bash
-   sudo dpkg -i atlas_1.0_amd64.deb
+   sudo dpkg -i atlas_1.0.1_amd64.deb
    ```
 
 **Para Fedora, Red Hat, CentOS e derivados (.rpm):**
