@@ -24,6 +24,26 @@ O **Atlas Text Editor** foi projetado para ser uma ferramenta de edição de tex
 
 <img width="1366" height="733" alt="image" src="https://github.com/user-attachments/assets/dbe6f4e4-861d-4850-af9c-961ac45d9082" />
 
+### 🔒 Codificações de Texto Disponíveis
+
+- UTF-8
+- UTF-16-LE
+- ASCII
+- ISO-8859-1
+- ISO-8859-2
+- ISO-8859-15
+- Windows-1250
+- Windows-1251
+- Windows-1252
+- Windows-1254
+- MacRoman
+- KOI8-R
+- Shift_JIS
+- EUC-JP
+- GBK
+- Big5
+- EUC-KR
+
 ---
 
 ## Instalação
@@ -40,17 +60,17 @@ O Atlas Text Editor está disponível para **Windows** e **Linux**. Para instala
 Temos pacotes pré-compilados para as principais distribuições:
 
 **Para Ubuntu, Debian, Mint e derivados (.deb):**
-1. Baixe o arquivo **`atlas-text-editor_1.2.1_amd64.deb`**.
+1. Baixe o arquivo **`atlas-text-editor_1.2.2_amd64.deb`**.
 2. Instale dando um duplo clique (se tiver uma loja de aplicativos) ou pelo terminal:
    ```bash
-   sudo dpkg -i atlas-text-editor_1.2.1_amd64.deb
+   sudo dpkg -i atlas-text-editor_1.2.2_amd64.deb
    ```
 
 **Para Fedora, Red Hat, CentOS e derivados (.rpm):**
-1. Baixe o arquivo **`atlas-text-editor-1.2.1-1.x86_64.rpm`**.
+1. Baixe o arquivo **`atlas-text-editor-1.2.2-1.x86_64.rpm`**.
 2. Instale dando um duplo clique (se tiver um loja de aplicativos) ou pelo terminal:
    ```bash
-   sudo rpm -i atlas-text-editor-1.2.1-1.x86_64.rpm
+   sudo rpm -i atlas-text-editor-1.2.2-1.x86_64.rpm
    ```
 ## Encontrou um problema ou tem uma sugestão?
 
