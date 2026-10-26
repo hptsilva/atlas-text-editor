@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Plataformas](https://img.shields.io/badge/Plataformas-Windows%20%7C%20Linux-blue.svg)](#-instalação)
+[![Plataformas](https://img.shields.io/badge/Plataformas-Linux-blue.svg)](#-instalação)
 
 **Apenas um simples editor de texto.**
 
@@ -48,16 +48,7 @@ O **Atlas Text Editor** foi projetado para ser uma ferramenta de edição de tex
 
 ## Instalação
 
-O Atlas Text Editor está disponível para **Windows** e **Linux**. Para instalar, basta ir até a aba [Releases](https://github.com/hptsilva/atlas-text-editor/releases) deste repositório e baixar o arquivo compatível com o seu sistema.
-
-### Windows (Não disponível na versão v1.3.0)
-1. Baixe o arquivo **`Atlas-Setup-x64.exe`** na página de Releases.
-2. Dê um duplo clique no instalador e siga as instruções na tela.
-3. O Atlas será adicionado na Área de Trabalho!
-
-### Linux
-
-Temos pacotes pré-compilados para as principais distribuições:
+O Atlas Text Editor está disponível para **Linux**. Para instalar, basta ir até a aba [Releases](https://github.com/hptsilva/atlas-text-editor/releases) deste repositório e baixar o arquivo compatível com o seu sistema.
 
 **Para Ubuntu, Debian, Mint e derivados (.deb):**
 1. Baixe o arquivo **`atlas-text-editor_1.3.0_amd64.deb`**.
