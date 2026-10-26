@@ -27,7 +27,6 @@ O **Atlas Text Editor** foi projetado para ser uma ferramenta de edição de tex
 ### 🔒 Codificações de Texto Disponíveis
 
 - UTF-8
-- UTF-16-LE
 - ASCII
 - ISO-8859-1
 - ISO-8859-2
