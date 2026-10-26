@@ -50,17 +50,17 @@ O **Atlas Text Editor** foi projetado para ser uma ferramenta de edição de tex
 O Atlas Text Editor está disponível para **Linux**. Para instalar, basta ir até a aba [Releases](https://github.com/hptsilva/atlas-text-editor/releases) deste repositório e baixar o arquivo compatível com o seu sistema.
 
 **Para Ubuntu, Debian, Mint e derivados (.deb):**
-1. Baixe o arquivo **`atlas-text-editor_1.3.0_amd64.deb`**.
+1. Baixe o arquivo **`atlas-text-editor_1.3.1_amd64.deb`**.
 2. Instale dando um duplo clique (se tiver uma loja de aplicativos) ou pelo terminal:
    ```bash
-   sudo dpkg -i atlas-text-editor_1.3.0_amd64.deb
+   sudo dpkg -i atlas-text-editor_1.3.1_amd64.deb
    ```
 
 **Para Fedora, Red Hat, CentOS e derivados (.rpm):**
-1. Baixe o arquivo **`atlas-text-editor-1.3.0-1.fc44.x86_64.rpm`**.
+1. Baixe o arquivo **`atlas-text-editor-1.3.1-1.fc44.x86_64.rpm`**.
 2. Instale dando um duplo clique (se tiver um loja de aplicativos) ou pelo terminal:
    ```bash
-   sudo rpm -i atlas-text-editor-1.3.0-1.fc44.x86_64.rpm
+   sudo rpm -i atlas-text-editor-1.3.1-1.fc44.x86_64.rpm
    ```
 ## Encontrou um problema ou tem uma sugestão?
 
